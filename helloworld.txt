@@ -1,3 +1,6 @@
 Hello World
 Java programming
 C++ Programming
+Python Programming
+C Programming
+C# Programming
